@@ -1,0 +1,112 @@
+﻿[
+  {
+    "RoleId": 3,
+    "Email": "wolfeblackwell@pheast.com",
+    "Name": "Erickson",
+    "Address": "916 Hubbard Street, Celeryville, Rhode Island",
+    "Phone": "(921) 442-2845",
+    "CitizenCard": "'166456789938'",
+    "Gender": "male",
+    "Status": 0,
+    "OtpToken": "'805064'"
+  },
+  {
+    "RoleId": 3,
+    "Email": "ericksonblackwell@pheast.com",
+    "Name": "Riggs",
+    "Address": "767 Aurelia Court, Salix, Minnesota",
+    "Phone": "(813) 514-2064",
+    "CitizenCard": "'858456789956'",
+    "Gender": "male",
+    "Status": 0,
+    "OtpToken": "'914998'"
+  },
+  {
+    "RoleId": 3,
+    "Email": "riggsblackwell@pheast.com",
+    "Name": "Malone",
+    "Address": "149 Graham Avenue, Moraida, North Dakota",
+    "Phone": "(908) 436-2093",
+    "CitizenCard": "'583456789962'",
+    "Gender": "male",
+    "Status": 0,
+    "OtpToken": "'934531'"
+  },
+  {
+    "RoleId": 3,
+    "Email": "maloneblackwell@pheast.com",
+    "Name": "King",
+    "Address": "726 Karweg Place, Noblestown, Montana",
+    "Phone": "(916) 478-3147",
+    "CitizenCard": "'644456789510'",
+    "Gender": "male",
+    "Status": 0,
+    "OtpToken": "'362528'"
+  },
+  {
+    "RoleId": 3,
+    "Email": "kingblackwell@pheast.com",
+    "Name": "Lenora",
+    "Address": "418 Cypress Avenue, Islandia, New Mexico",
+    "Phone": "(928) 573-3818",
+    "CitizenCard": "'610456789558'",
+    "Gender": "female",
+    "Status": 0,
+    "OtpToken": "'671828'"
+  },
+  {
+    "RoleId": 3,
+    "Email": "lenorablackwell@pheast.com",
+    "Name": "Lillie",
+    "Address": "146 Forbell Street, Cliffside, Maine",
+    "Phone": "(869) 521-2194",
+    "CitizenCard": "'568456789431'",
+    "Gender": "female",
+    "Status": 0,
+    "OtpToken": "'517001'"
+  },
+  {
+    "RoleId": 3,
+    "Email": "lillieblackwell@pheast.com",
+    "Name": "Noble",
+    "Address": "613 Livonia Avenue, Jacksonwald, New Jersey",
+    "Phone": "(963) 599-3887",
+    "CitizenCard": "'278456789288'",
+    "Gender": "male",
+    "Status": 0,
+    "OtpToken": "'489894'"
+  },
+  {
+    "RoleId": 3,
+    "Email": "nobleblackwell@pheast.com",
+    "Name": "Emma",
+    "Address": "316 Kimball Street, Sedley, New Hampshire",
+    "Phone": "(994) 537-2055",
+    "CitizenCard": "'454456789309'",
+    "Gender": "female",
+    "Status": 0,
+    "OtpToken": "'459943'"
+  },
+  {
+    "RoleId": 3,
+    "Email": "emmablackwell@pheast.com",
+    "Name": "Guadalupe",
+    "Address": "285 Bogart Street, Bellfountain, Illinois",
+    "Phone": "(868) 484-3088",
+    "CitizenCard": "'435456789269'",
+    "Gender": "female",
+    "Status": 0,
+    "OtpToken": "'985689'"
+  },
+  {
+    "RoleId": 3,
+    "Email": "guadalupeblackwell@pheast.com",
+    "Name": "Day",
+    "Address": "346 Beach Place, Russellville, Virgin Islands",
+    "Phone": "(917) 526-3296",
+    "CitizenCard": "'484456789624'",
+    "Gender": "male",
+    "Status": 0,
+    "OtpToken": "'661525'"
+  }
+]
